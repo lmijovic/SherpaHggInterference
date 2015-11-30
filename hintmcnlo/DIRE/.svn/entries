@@ -1,0 +1,77 @@
+10
+
+dir
+26852
+http://sherpa.hepforge.org/svn/branches/hintmcnlo/DIRE
+http://sherpa.hepforge.org/svn
+
+
+
+2015-10-01T02:28:16.919231Z
+26584
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ceaa0d5-930b-0410-b103-ea8c790846c7
+
+Tools
+dir
+
+Main
+dir
+
+Shower
+dir
+
+Gauge
+dir
+
+Makefile.am
+file
+
+
+
+
+2015-11-15T12:54:01.000000Z
+4ee5fcba1777edaa967061f21bb357c3
+2015-05-19T20:21:30.551176Z
+25854
+stefan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42
+
+Lorentz
+dir
+

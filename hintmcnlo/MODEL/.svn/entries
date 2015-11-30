@@ -1,0 +1,83 @@
+10
+
+dir
+26852
+http://sherpa.hepforge.org/svn/branches/hintmcnlo/MODEL
+http://sherpa.hepforge.org/svn
+
+
+
+2015-09-26T04:46:28.649642Z
+26561
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ceaa0d5-930b-0410-b103-ea8c790846c7
+
+SM
+dir
+
+TauPi
+dir
+
+Main
+dir
+
+HEFT
+dir
+
+UFO
+dir
+
+Makefile.am
+file
+
+
+
+
+2015-11-15T12:54:44.000000Z
+d0f1fd8b68edd5d7f535edbcfbd324a2
+2015-06-18T23:10:41.197014Z
+26033
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36
+
+MUED
+dir
+
+AQGC
+dir
+

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections
+END
+Sigma_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Sigma_Base.H
+END
+Parton_Luminosity.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Parton_Luminosity.C
+END
+Sigma_Inelastic.H
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Sigma_Inelastic.H
+END
+Cross_Sections.C
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Cross_Sections.C
+END
+Sigma_Total.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Sigma_Total.C
+END
+Sigma_Elastic.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Sigma_Elastic.C
+END
+Parton_Luminosity.H
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Parton_Luminosity.H
+END
+Cross_Sections.H
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Cross_Sections.H
+END
+Sigma_DD.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Sigma_DD.C
+END
+Sigma_Total.H
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Sigma_Total.H
+END
+Sigma_Elastic.H
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Sigma_Elastic.H
+END
+Sigma_DD.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Sigma_DD.H
+END
+Sigma_SD.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Sigma_SD.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Makefile.am
+END
+Sigma_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Sigma_Base.C
+END
+Sigma_SD.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Sigma_SD.H
+END
+Sigma_Inelastic.C
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Cross_Sections/Sigma_Inelastic.C
+END

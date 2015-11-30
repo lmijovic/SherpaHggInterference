@@ -1,0 +1,23 @@
+@node Examples
+@chapter Examples
+
+Some example set-ups are included in Sherpa, in the 
+@code{<prefix>/share/SHERPA-MC/Examples/} directory. These may be useful to 
+new users to practice with, or as templates for creating your 
+own Sherpa run-cards. In this section, we will look at some 
+of the main features of these examples.
+
+@menu
+* HJets::
+@end menu
+
+
+@node HJets
+@section Higgs boson + jets production
+
+@menu
+* LHC_HInt::
+@end menu
+
+@include LHC_HInt.texi
+

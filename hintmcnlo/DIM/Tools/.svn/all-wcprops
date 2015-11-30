@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/26819/branches/hintmcnlo/DIM/Tools
+END
+Color.C
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26819/branches/hintmcnlo/DIM/Tools/Color.C
+END
+Splitting.H
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/DIM/Tools/Splitting.H
+END
+Color.H
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26819/branches/hintmcnlo/DIM/Tools/Color.H
+END
+Parton.C
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/DIM/Tools/Parton.C
+END
+Amplitude.C
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/DIM/Tools/Amplitude.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/DIM/Tools/Makefile.am
+END
+Parton.H
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/DIM/Tools/Parton.H
+END
+Amplitude.H
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/DIM/Tools/Amplitude.H
+END
+Weight.H
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/DIM/Tools/Weight.H
+END
+Kernel_Key.H
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/DIM/Tools/Kernel_Key.H
+END
+Splitting.C
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/DIM/Tools/Splitting.C
+END

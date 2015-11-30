@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Cluster
+END
+Combine_Table.C
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Cluster/Combine_Table.C
+END
+Cluster_Algorithm.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Cluster/Cluster_Algorithm.C
+END
+Combine_Table.H
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Cluster/Combine_Table.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Cluster/Makefile.am
+END
+Cluster_Algorithm.H
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Cluster/Cluster_Algorithm.H
+END

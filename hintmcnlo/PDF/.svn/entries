@@ -1,0 +1,95 @@
+10
+
+dir
+26852
+http://sherpa.hepforge.org/svn/branches/hintmcnlo/PDF
+http://sherpa.hepforge.org/svn
+
+
+
+2015-08-07T22:39:24.740881Z
+26264
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ceaa0d5-930b-0410-b103-ea8c790846c7
+
+Main
+dir
+
+Remnant
+dir
+
+MRST
+dir
+
+NNPDF
+dir
+
+CT10
+dir
+
+CT12
+dir
+
+Makefile.am
+file
+
+
+
+
+2015-11-15T12:55:29.000000Z
+78f221052b95fcd849b7b37cac8cd0a8
+2015-06-18T23:10:41.197014Z
+26033
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+80
+
+MSTW
+dir
+
+Electron
+dir
+
+CTEQ
+dir
+
+GRV
+dir
+
+LHAPDF
+dir
+

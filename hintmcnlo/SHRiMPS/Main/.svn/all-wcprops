@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Main
+END
+Hadron_Init.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Main/Hadron_Init.C
+END
+Hadron_Init.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Main/Hadron_Init.H
+END
+Shrimps.C
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Main/Shrimps.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Main/Makefile.am
+END
+Shrimps.H
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Main/Shrimps.H
+END

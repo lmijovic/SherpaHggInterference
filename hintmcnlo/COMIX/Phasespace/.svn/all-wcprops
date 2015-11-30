@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/26819/branches/hintmcnlo/COMIX/Phasespace
+END
+PS_Channel.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/COMIX/Phasespace/PS_Channel.H
+END
+PS_Vertex.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/COMIX/Phasespace/PS_Vertex.C
+END
+PS_Info.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/COMIX/Phasespace/PS_Info.H
+END
+PS_Current.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/COMIX/Phasespace/PS_Current.C
+END
+PS_Vertex.H
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/COMIX/Phasespace/PS_Vertex.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/COMIX/Phasespace/Makefile.am
+END
+PS_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/COMIX/Phasespace/PS_Generator.C
+END
+PS_Current.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/COMIX/Phasespace/PS_Current.H
+END
+PS_Channel.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/COMIX/Phasespace/PS_Channel.C
+END
+PS_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/COMIX/Phasespace/PS_Generator.H
+END
+PS_Info.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/COMIX/Phasespace/PS_Info.C
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation
+END
+Final_State.H
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Final_State.H
+END
+Initial_State.H
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Initial_State.H
+END
+Single_Diffractive_Event_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Single_Diffractive_Event_Generator.C
+END
+Ladder.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Ladder.H
+END
+Elastic_Event_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Elastic_Event_Generator.H
+END
+Ladder_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Ladder_Generator.C
+END
+Simple_MEs.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Simple_MEs.H
+END
+Quasi_Elastic_Event_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Quasi_Elastic_Event_Generator.H
+END
+Single_Diffractive_Event_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Single_Diffractive_Event_Generator.H
+END
+Ladder_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Ladder_Generator.H
+END
+Quark_Replace.C
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Quark_Replace.C
+END
+Inelastic_Event_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Inelastic_Event_Generator.C
+END
+Quark_Replace.H
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Quark_Replace.H
+END
+Event_Generator_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Event_Generator_Base.H
+END
+Inelastic_Event_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Inelastic_Event_Generator.H
+END
+Event_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Event_Generator.C
+END
+Double_Diffractive_Event_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Double_Diffractive_Event_Generator.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Makefile.am
+END
+Initial_State.C
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Initial_State.C
+END
+Final_State.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Final_State.C
+END
+Elastic_Event_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Elastic_Event_Generator.C
+END
+Ladder.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Ladder.C
+END
+Double_Diffractive_Event_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Double_Diffractive_Event_Generator.H
+END
+Event_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Event_Generator.H
+END
+Simple_MEs.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Simple_MEs.C
+END
+Quasi_Elastic_Event_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Event_Generation/Quasi_Elastic_Event_Generator.C
+END

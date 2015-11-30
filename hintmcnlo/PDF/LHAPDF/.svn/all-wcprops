@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/LHAPDF
+END
+LHAPDF_Fortran_Interface.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/LHAPDF/LHAPDF_Fortran_Interface.H
+END
+LHAPDF_CPP_Interface.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/LHAPDF/LHAPDF_CPP_Interface.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/LHAPDF/Makefile.am
+END
+LHAPDF_Fortran_Interface.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/LHAPDF/LHAPDF_Fortran_Interface.C
+END

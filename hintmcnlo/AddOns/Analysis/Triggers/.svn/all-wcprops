@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers
+END
+momentum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/momentum.cpp
+END
+Primitive_Detector.C
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Primitive_Detector.C
+END
+Trigger_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Trigger_Base.H
+END
+reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/reference.h
+END
+Primitive_Detector.H
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Primitive_Detector.H
+END
+area.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/area.cpp
+END
+ranlux.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/ranlux.h
+END
+siscone_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/siscone_error.h
+END
+Two_Particle_X_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Two_Particle_X_Selector.C
+END
+DIS_Algorithm.C
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/DIS_Algorithm.C
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/hash.h
+END
+DIS_Algorithm.H
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/DIS_Algorithm.H
+END
+Two_Particle_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Two_Particle_Selector.C
+END
+Isolation_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Isolation_Selector.C
+END
+One_Particle_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/One_Particle_Selector.C
+END
+FrixioneIsolation_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/FrixioneIsolation_Selector.C
+END
+ranlux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/ranlux.cpp
+END
+Custom_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Custom_Selector.C
+END
+quadtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/quadtree.cpp
+END
+area.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/area.h
+END
+Cambridge_Algorithm.C
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Cambridge_Algorithm.C
+END
+hash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/hash.cpp
+END
+Kt_Algorithm.C
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Kt_Algorithm.C
+END
+Midpoint_Cone.C
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Midpoint_Cone.C
+END
+Cambridge_Algorithm.H
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Cambridge_Algorithm.H
+END
+Kt_Algorithm.H
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Kt_Algorithm.H
+END
+Midpoint_Cone.H
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Midpoint_Cone.H
+END
+vicinity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/vicinity.cpp
+END
+One_Particle_Extractor.C
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/One_Particle_Extractor.C
+END
+Jet_Particle_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Jet_Particle_Selector.C
+END
+siscone.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/siscone.h
+END
+MySISCone.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/MySISCone.C
+END
+split_merge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/split_merge.cpp
+END
+HT_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/HT_Selector.C
+END
+circulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/circulator.h
+END
+geom_2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/geom_2d.cpp
+END
+MySISCone.H
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/MySISCone.H
+END
+quadtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/quadtree.h
+END
+Fastjet_Interface.C
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Fastjet_Interface.C
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/defines.h
+END
+Durham_Algorithm.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Durham_Algorithm.C
+END
+One_Variable_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/One_Variable_Selector.C
+END
+ConeMCFM.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/ConeMCFM.C
+END
+MCFMCone.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/MCFMCone.C
+END
+Final_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Final_Selector.C
+END
+Durham_Algorithm.H
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Durham_Algorithm.H
+END
+All_Particle_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/All_Particle_Selector.C
+END
+MCFMCone.H
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/MCFMCone.H
+END
+ConeMCFM.H
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/ConeMCFM.H
+END
+Final_Selector.H
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Final_Selector.H
+END
+reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/reference.cpp
+END
+Primitive_Calorimeter.C
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Primitive_Calorimeter.C
+END
+protocones.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/protocones.h
+END
+vicinity.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/vicinity.h
+END
+Primitive_Calorimeter.H
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Primitive_Calorimeter.H
+END
+siscone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/siscone.cpp
+END
+momentum.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/momentum.h
+END
+Calorimeter_Cone.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Calorimeter_Cone.C
+END
+siscone_error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/siscone_error.cpp
+END
+Calorimeter_Cone.H
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Calorimeter_Cone.H
+END
+split_merge.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/split_merge.h
+END
+geom_2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/geom_2d.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Makefile.am
+END
+protocones.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/protocones.cpp
+END
+Trigger_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Triggers/Trigger_Base.C
+END

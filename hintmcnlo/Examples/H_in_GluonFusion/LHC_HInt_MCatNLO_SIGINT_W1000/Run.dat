@@ -1,0 +1,48 @@
+(run){
+  # generator parameters
+  EVENTS 1M; LGEN:=Higgs;
+  EVENT_OUTPUT=HepMC_GenEvent[hepmc_file]	
+  EVENT_GENERATION_MODE W;
+  ME_QED Off;
+  FRAGMENTATION Off; MI_HANDLER None;
+  AMEGIC_KEEP_ZERO_PROCS 1;
+  AMEGIC_ALLOW_MAPPING 0;
+  ME_SIGNAL_GENERATOR Amegic LGEN;
+  SCALES VAR{Abs2(p[2]+p[3])};
+
+  # physics parameters
+  YUKAWA[4] 1.42; YUKAWA[5] 4.8;
+  YUKAWA[15] 1.777;
+  EW_SCHEME 3;
+  RUN_MASS_BELOW_POLE 1;
+  MASS[25] 125;       
+  WIDTH[25] 4.07;
+
+
+  # collider parameters
+  BEAM_1 2212; BEAM_ENERGY_1 6500;
+  BEAM_2 2212; BEAM_ENERGY_2 6500;
+
+  # Higgs mode 
+  # HIGGS_INTERFERENCE_MODE: +1->signal, +2->ggbkg, +4->qqbkg 
+  # HIGGS_INTERFERENCE_ONLY: 1->|S+B|^2-|S|^2-|B|^2, 2->|S+B|^2-|B|^2, 0->|S+B|^2 
+  HIGGS_INTERFERENCE_MODE 7;
+  HIGGS_INTERFERENCE_ONLY 2;
+
+  ABS_ERROR 1;
+}(run);
+
+(processes){
+  Process 93 93 -> 22 22;
+  NLO_QCD_Mode MC@NLO;
+  Order (*,2); Enable_MHV 12;
+  Loop_Generator LGEN;
+  Integrator PS2;
+  RS_Integrator PS3;
+  End process;
+}(processes);
+
+(selector){
+  HiggsFinder 40 30 2.5 100 150;
+  IsolationCut 22 0.4 2 0.025;
+}(selector);

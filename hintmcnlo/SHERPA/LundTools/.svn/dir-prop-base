@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 58
+pythia-6.4.18.f
+
+Makefile.in
+
+SVN_Info.C
+
+.deps
+
+Makefile
+
+END

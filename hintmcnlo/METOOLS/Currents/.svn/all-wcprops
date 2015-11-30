@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Currents
+END
+C_Pseudo.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Currents/C_Pseudo.C
+END
+C_Spinor.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Currents/C_Spinor.H
+END
+P_C.C
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Currents/P_C.C
+END
+C_Vector.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Currents/C_Vector.C
+END
+S_C.C
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Currents/S_C.C
+END
+C_Pseudo.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Currents/C_Pseudo.H
+END
+C_Scalar.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Currents/C_Scalar.C
+END
+F_C.C
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Currents/F_C.C
+END
+V_C.C
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Currents/V_C.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Currents/Makefile.am
+END
+C_Vector.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Currents/C_Vector.H
+END
+C_Scalar.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Currents/C_Scalar.H
+END
+C_Spinor.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Currents/C_Spinor.C
+END

@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude
+END
+Super_Amplitude.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Super_Amplitude.C
+END
+Amplitude_Output.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Amplitude_Output.C
+END
+Super_Amplitude.H
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Super_Amplitude.H
+END
+FullAmplitude_External.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/FullAmplitude_External.C
+END
+Amplitude_Output.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Amplitude_Output.H
+END
+FullAmplitude_MHV_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/FullAmplitude_MHV_Base.C
+END
+Vertex.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Vertex.C
+END
+FullAmplitude_External.H
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/FullAmplitude_External.H
+END
+Amplitude_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Amplitude_Base.C
+END
+FullAmplitude_MHV_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/FullAmplitude_MHV_Base.H
+END
+Vertex.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Vertex.H
+END
+Amplitude_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Amplitude_Base.H
+END
+Color_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Color_Generator.C
+END
+Prop_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Prop_Generator.C
+END
+Color_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Color_Generator.H
+END
+Amplitude_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Amplitude_Generator.C
+END
+Zfunc_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunc_Generator.C
+END
+Prop_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Prop_Generator.H
+END
+Color_Group.H
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Color_Group.H
+END
+Amplitude_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Amplitude_Generator.H
+END
+Amplitude_Manipulator.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Amplitude_Manipulator.C
+END
+Amplitude_Group.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Amplitude_Group.C
+END
+Zfunc_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunc_Generator.H
+END
+Lorentz_Function.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Lorentz_Function.C
+END
+Amplitude_Manipulator.H
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Amplitude_Manipulator.H
+END
+Amplitude_Group.H
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Amplitude_Group.H
+END
+Lorentz_Function.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Lorentz_Function.H
+END
+Single_Vertex.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Single_Vertex.C
+END
+Single_Amplitude_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Single_Amplitude_Base.C
+END
+Pfunc.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Pfunc.H
+END
+Amplitude_Handler.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Amplitude_Handler.C
+END
+Single_Vertex.H
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Single_Vertex.H
+END
+Single_Amplitude_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Single_Amplitude_Base.H
+END
+Single_Amplitude.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Single_Amplitude.C
+END
+Lorentz_Functions.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Lorentz_Functions.C
+END
+Zfunc.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunc.C
+END
+Amplitude_Handler.H
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Amplitude_Handler.H
+END
+CFColor.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/CFColor.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Makefile.am
+END
+Single_Amplitude.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Single_Amplitude.H
+END
+Zfunc.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunc.H
+END
+CFColor.H
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/CFColor.H
+END

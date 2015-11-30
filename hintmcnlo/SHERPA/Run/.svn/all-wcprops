@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run
+END
+mpilog
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/mpilog
+END
+Sherpa-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/Sherpa-config.in
+END
+Integration.dat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/Integration.dat
+END
+Analysis.dat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/Analysis.dat
+END
+makedist
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/makedist
+END
+ISR.dat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/ISR.dat
+END
+Main.C
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/Main.C
+END
+Fragmentation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/Fragmentation.dat
+END
+ME.dat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/ME.dat
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/Makefile.am
+END
+Run.dat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/Run.dat
+END
+get_bibtex
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/get_bibtex
+END
+MI.dat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/MI.dat
+END
+oomguard
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/oomguard
+END
+Shower.dat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/Run/Shower.dat
+END

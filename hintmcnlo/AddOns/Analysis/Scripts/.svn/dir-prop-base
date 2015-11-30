@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 47
+Combine_Analysis
+
+Makefile.in
+
+.deps
+
+Makefile
+
+END

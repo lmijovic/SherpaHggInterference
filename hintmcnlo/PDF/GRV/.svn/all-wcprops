@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/GRV
+END
+GRVph_Fortran_Interface.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/GRV/GRVph_Fortran_Interface.C
+END
+GRVph_Fortran_Interface.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/GRV/GRVph_Fortran_Interface.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/GRV/Makefile.am
+END
+grvphoton.f
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/GRV/grvphoton.f
+END

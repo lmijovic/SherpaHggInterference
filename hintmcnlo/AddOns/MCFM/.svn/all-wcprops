@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/MCFM
+END
+install_mcfm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/MCFM/install_mcfm.sh
+END
+MCFM_Interface.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/MCFM/MCFM_Interface.C
+END
+MCFM_gg_hgg.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/MCFM/MCFM_gg_hgg.C
+END
+MCFM_Wrapper.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/MCFM/MCFM_Wrapper.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/MCFM/Makefile.am
+END

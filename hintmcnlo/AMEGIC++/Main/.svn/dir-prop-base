@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 62
+make2scons
+makelibs
+
+Makefile.in
+
+SVN_Info.C
+
+.deps
+
+Makefile
+
+END

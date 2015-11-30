@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/26831/branches/hintmcnlo/PHASIC++/Main
+END
+Phase_Space_Integrator.H
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Main/Phase_Space_Integrator.H
+END
+Color_Integrator.H
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Main/Color_Integrator.H
+END
+Process_Integrator.H
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Main/Process_Integrator.H
+END
+plot_stats.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Main/plot_stats.sh
+END
+Helicity_Integrator.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Main/Helicity_Integrator.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Main/Makefile.am
+END
+Phase_Space_Handler.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Main/Phase_Space_Handler.C
+END
+Phase_Space_Integrator.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Main/Phase_Space_Integrator.C
+END
+Color_Integrator.C
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Main/Color_Integrator.C
+END
+Process_Integrator.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Main/Process_Integrator.C
+END
+Helicity_Integrator.H
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Main/Helicity_Integrator.H
+END
+Phase_Space_Handler.H
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26831/branches/hintmcnlo/PHASIC++/Main/Phase_Space_Handler.H
+END

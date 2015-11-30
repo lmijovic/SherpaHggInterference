@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices
+END
+FFV_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/FFV_LC.C
+END
+VVV_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/VVV_LC.C
+END
+TAUPI_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/TAUPI_LC.C
+END
+FFV_DLC.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/FFV_DLC.C
+END
+VVV_DLC.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/VVV_DLC.C
+END
+Box_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/Box_LC.C
+END
+SSSS_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/SSSS_LC.C
+END
+SSVV_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/SSVV_LC.C
+END
+Triangle_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/Triangle_LC.C
+END
+VVVV_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/VVVV_LC.C
+END
+SSS_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/SSS_LC.C
+END
+BoxP_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/BoxP_LC.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/Makefile.am
+END
+VVP_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/VVP_LC.C
+END
+SSV_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/SSV_LC.C
+END
+SVV_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/SVV_LC.C
+END
+SFF_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Vertices/SFF_LC.C
+END

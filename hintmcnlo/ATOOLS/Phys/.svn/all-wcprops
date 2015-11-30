@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys
+END
+Particle.C
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Particle.C
+END
+Cluster_Leg.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Cluster_Leg.C
+END
+Particle.H
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Particle.H
+END
+Blob_List.C
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Blob_List.C
+END
+Ordering.C
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Ordering.C
+END
+Spinor.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Spinor.C
+END
+Cluster_Leg.H
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Cluster_Leg.H
+END
+Blob_List.H
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Blob_List.H
+END
+Ordering.H
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Ordering.H
+END
+Blob.C
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Blob.C
+END
+Spinor.H
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Spinor.H
+END
+Momenta_Stretcher.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Momenta_Stretcher.C
+END
+Blob.H
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Blob.H
+END
+Cluster_Amplitude.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Cluster_Amplitude.C
+END
+Momentum_Shifter.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Momentum_Shifter.C
+END
+Momenta_Stretcher.H
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Momenta_Stretcher.H
+END
+Momentum_Shifter.H
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Momentum_Shifter.H
+END
+Cluster_Amplitude.H
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Cluster_Amplitude.H
+END
+Parton_Finder.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Parton_Finder.C
+END
+Particle_List.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Particle_List.C
+END
+Parton_Finder.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Parton_Finder.H
+END
+Decay_Info.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Decay_Info.C
+END
+Flavour_Tags.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Flavour_Tags.H
+END
+Weight_Info.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Weight_Info.C
+END
+Particle_List.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Particle_List.H
+END
+Color_Tester.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Color_Tester.C
+END
+Decay_Info.H
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Decay_Info.H
+END
+Flow.C
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Flow.C
+END
+Weight_Info.H
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Weight_Info.H
+END
+Color_Tester.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Color_Tester.H
+END
+Flow.H
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Flow.H
+END
+Flavour.C
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Flavour.C
+END
+Color.C
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Color.C
+END
+NLO_Subevt.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/NLO_Subevt.C
+END
+Fastjet_Helpers.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Fastjet_Helpers.C
+END
+Flavour.H
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Flavour.H
+END
+Color.H
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Color.H
+END
+NLO_Subevt.H
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/NLO_Subevt.H
+END
+Fastjet_Helpers.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Fastjet_Helpers.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Makefile.am
+END
+Simple_Polarisation_Info.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Simple_Polarisation_Info.C
+END
+Simple_Polarisation_Info.H
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Phys/Simple_Polarisation_Info.H
+END

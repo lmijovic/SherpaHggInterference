@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels
+END
+Rambo.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Rambo.C
+END
+Rambo.H
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Rambo.H
+END
+VHAAG_ND.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/VHAAG_ND.C
+END
+ISR_Channels.C
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/ISR_Channels.C
+END
+Single_Channel.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Single_Channel.C
+END
+VHAAG_ND.H
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/VHAAG_ND.H
+END
+ISR_Channels.H
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/ISR_Channels.H
+END
+Single_Channel.H
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Single_Channel.H
+END
+BBar_Emission_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/BBar_Emission_Generator.C
+END
+FSR_Channel.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/FSR_Channel.C
+END
+CS_Dipoles.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/CS_Dipoles.C
+END
+BBar_Emission_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/BBar_Emission_Generator.H
+END
+FSR_Channel.H
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/FSR_Channel.H
+END
+Channel_Interface.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Channel_Interface.C
+END
+Channel_Elements_KK.C
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Channel_Elements_KK.C
+END
+CS_Dipoles.H
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/CS_Dipoles.H
+END
+Decay_Dalitz.C
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Decay_Dalitz.C
+END
+Channel_Basics.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Channel_Basics.C
+END
+Channel_Interface.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Channel_Interface.H
+END
+Channel_Elements_KK.H
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Channel_Elements_KK.H
+END
+CSS_Kinematics.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/CSS_Kinematics.C
+END
+VHAAG_res.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/VHAAG_res.C
+END
+Channel_Basics.H
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Channel_Basics.H
+END
+Decay_Dalitz.H
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Decay_Dalitz.H
+END
+CS_Dipole.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/CS_Dipole.C
+END
+Channel_Elements.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Channel_Elements.C
+END
+CSS_Kinematics.H
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/CSS_Kinematics.H
+END
+VHAAG_res.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/VHAAG_res.H
+END
+FSR_Channels.C
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/FSR_Channels.C
+END
+Vegas.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Vegas.C
+END
+CS_Dipole.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/CS_Dipole.H
+END
+BBar_Multi_Channel.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/BBar_Multi_Channel.C
+END
+Channel_Elements.H
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Channel_Elements.H
+END
+FSR_Channels.H
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/FSR_Channels.H
+END
+Vegas.H
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Vegas.H
+END
+BBar_Multi_Channel.H
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/BBar_Multi_Channel.H
+END
+Channel_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Channel_Generator.C
+END
+Beam_Channels.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Beam_Channels.C
+END
+ISR_Vegas.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/ISR_Vegas.C
+END
+Multi_Channel.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Multi_Channel.C
+END
+Channel_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Channel_Generator.H
+END
+Beam_Channels.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Beam_Channels.H
+END
+RamboKK.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/RamboKK.C
+END
+VHAAG.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/VHAAG.C
+END
+ISR_Vegas.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/ISR_Vegas.H
+END
+Multi_Channel.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Multi_Channel.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/Makefile.am
+END
+RamboKK.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/RamboKK.H
+END
+VHAAG.H
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Channels/VHAAG.H
+END

@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 86
+Sherpa-generate-model
+sconstruct_template
+*.pyc
+Makefile.in
+SVN_Info.C
+.deps
+Makefile
+
+END

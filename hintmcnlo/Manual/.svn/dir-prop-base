@@ -1,0 +1,23 @@
+K 10
+svn:ignore
+V 190
+Sherpa.log
+Sherpa.info
+Sherpa.info-*
+Sherpa.html
+Sherpa.dvi
+Sherpa.ps
+Sherpa.pdf
+Sherpa
+mdate-sh
+stamp-vti
+texinfo.tex
+version.texi
+completion.index
+sherpa-completion
+
+Makefile.in
+
+Makefile
+
+END

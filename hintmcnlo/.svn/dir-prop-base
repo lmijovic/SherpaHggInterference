@@ -1,0 +1,31 @@
+K 10
+svn:ignore
+V 223
+bin
+include
+lib
+share
+info
+man
+config.*
+config*.lineno
+config.h.in
+libtool
+install-sh
+autom4te.cache
+missing
+aclocal.m4
+COPYING
+INSTALL
+ltmain.sh
+depcomp
+compile
+configure
+stamp-h1
+stamp-h2
+py-compile
+Makefile.in
+
+Makefile
+
+END

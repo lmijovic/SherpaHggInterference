@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools
+END
+Hadron_Init.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Hadron_Init.C
+END
+Splitter_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Splitter_Base.C
+END
+Hadron_Wave_Function.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Hadron_Wave_Function.C
+END
+Constituents.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Constituents.C
+END
+Hadron_Init.H
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Hadron_Init.H
+END
+Splitter_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Splitter_Base.H
+END
+Cluster_Splitter.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Cluster_Splitter.C
+END
+Constituents.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Constituents.H
+END
+Hadron_Wave_Function.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Hadron_Wave_Function.H
+END
+Soft_Cluster_Handler.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Soft_Cluster_Handler.C
+END
+Hadron_Multiplet.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Hadron_Multiplet.C
+END
+Gluon_Splitter.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Gluon_Splitter.C
+END
+Dipole.C
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Dipole.C
+END
+Cluster_Splitter.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Cluster_Splitter.H
+END
+Transitions.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Transitions.C
+END
+Soft_Cluster_Handler.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Soft_Cluster_Handler.H
+END
+Hadron_Multiplet.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Hadron_Multiplet.H
+END
+Gluon_Splitter.H
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Gluon_Splitter.H
+END
+Cluster.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Cluster.C
+END
+Dipole.H
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Dipole.H
+END
+Transitions.H
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Transitions.H
+END
+Hadronisation_Parameters.C
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Hadronisation_Parameters.C
+END
+Cluster.H
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Cluster.H
+END
+Proto_Particle.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Proto_Particle.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Makefile.am
+END
+Hadronisation_Parameters.H
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Hadronisation_Parameters.H
+END
+Proto_Particle.H
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Tools/Proto_Particle.H
+END

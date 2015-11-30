@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Tools
+END
+DEQ_Solver.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Tools/DEQ_Solver.C
+END
+Kernels.C
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Tools/Kernels.C
+END
+MinBias_Parameters.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Tools/MinBias_Parameters.C
+END
+DEQ_Solver.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Tools/DEQ_Solver.H
+END
+Kernels.H
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Tools/Kernels.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Tools/Makefile.am
+END
+MinBias_Parameters.H
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Tools/MinBias_Parameters.H
+END
+Special_Functions.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/SHRiMPS/Tools/Special_Functions.H
+END

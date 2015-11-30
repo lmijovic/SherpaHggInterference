@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Analyses
+END
+Analysis_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Analyses/Analysis_Base.H
+END
+WPolarization_Analysis.C
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Analyses/WPolarization_Analysis.C
+END
+ATLAS_CONF_2011_038.C
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Analyses/ATLAS_CONF_2011_038.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Analyses/Makefile.am
+END
+Analysis_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Analyses/Analysis_Base.C
+END

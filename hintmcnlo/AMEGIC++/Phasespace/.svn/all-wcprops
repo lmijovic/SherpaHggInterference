@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace
+END
+Channel_Generator_NPV.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator_NPV.C
+END
+Channel_Generator_KK.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator_KK.C
+END
+Channel_Generator_NPV.H
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator_NPV.H
+END
+Channel_Generator_Decays.C
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator_Decays.C
+END
+Channel_Generator_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator_Base.C
+END
+Channel_Generator_KK.H
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator_KK.H
+END
+Channel_Generator_Decays.H
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator_Decays.H
+END
+Channel_Generator_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator_Base.H
+END
+Channel_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator.C
+END
+Channel_Generator_UniV.C
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator_UniV.C
+END
+Phase_Space_Generator.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Phase_Space_Generator.C
+END
+Channel_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator.H
+END
+Channel_Generator_UniV.H
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator_UniV.H
+END
+Channel_Generator3_NPV.C
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator3_NPV.C
+END
+Phase_Space_Generator.H
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Phase_Space_Generator.H
+END
+Channel_Generator3V.C
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator3V.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Makefile.am
+END
+Channel_Generator3_NPV.H
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator3_NPV.H
+END
+Channel_Generator3V.H
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Phasespace/Channel_Generator3V.H
+END

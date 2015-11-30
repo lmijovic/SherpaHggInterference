@@ -1,0 +1,83 @@
+10
+
+dir
+26852
+http://sherpa.hepforge.org/svn/branches/hintmcnlo/METOOLS
+http://sherpa.hepforge.org/svn
+
+
+
+2015-11-03T03:08:11.830744Z
+26776
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ceaa0d5-930b-0410-b103-ea8c790846c7
+
+Colors
+dir
+
+Explicit
+dir
+
+Main
+dir
+
+Vertices
+dir
+
+Currents
+dir
+
+Makefile.am
+file
+
+
+
+
+2015-11-15T12:53:50.000000Z
+5a5c9ccde1d9ad286daf3457b802b277
+2011-10-17T19:50:17.253592Z
+18293
+fsiegert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72
+
+Loops
+dir
+
+SpinCorrelations
+dir
+

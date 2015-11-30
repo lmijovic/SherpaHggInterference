@@ -1,0 +1,80 @@
+10
+
+dir
+26852
+http://sherpa.hepforge.org/svn/branches/hintmcnlo/EXTRA_XS
+http://sherpa.hepforge.org/svn
+
+
+
+2015-06-21T09:06:15.030239Z
+26041
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ceaa0d5-930b-0410-b103-ea8c790846c7
+
+Cluster
+dir
+
+Main
+dir
+
+Two2Two
+dir
+
+NLO
+dir
+
+Makefile.am
+file
+
+
+
+
+2015-11-15T12:54:34.000000Z
+b61b76eb3ae1e6ba01ef52e159c5bec1
+2011-10-17T19:50:17.253592Z
+18293
+fsiegert
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59
+
+One2Three
+dir
+
+One2Two
+dir
+

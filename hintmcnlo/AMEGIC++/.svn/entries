@@ -1,0 +1,80 @@
+10
+
+dir
+26852
+http://sherpa.hepforge.org/svn/branches/hintmcnlo/AMEGIC++
+http://sherpa.hepforge.org/svn
+
+
+
+2015-11-08T05:36:08.168708Z
+26801
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ceaa0d5-930b-0410-b103-ea8c790846c7
+
+Cluster
+dir
+
+Amplitude
+dir
+
+Main
+dir
+
+String
+dir
+
+Makefile.am
+file
+
+
+
+
+2015-11-15T12:55:41.000000Z
+3683f178f33ce12221ab6efd5d1e0c2b
+2009-06-16T13:58:28.669771Z
+12741
+fsiegert
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+69
+
+DipoleSubtraction
+dir
+
+Phasespace
+dir
+

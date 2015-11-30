@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MSTW
+END
+PDF_MSTW.C
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MSTW/PDF_MSTW.C
+END
+mstwpdf.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MSTW/mstwpdf.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MSTW/Makefile.am
+END
+mstwpdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MSTW/mstwpdf.h
+END

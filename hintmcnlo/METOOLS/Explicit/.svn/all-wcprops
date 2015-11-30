@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit
+END
+NLO_Counter_Terms.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/NLO_Counter_Terms.C
+END
+NLO_Counter_Terms.H
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/NLO_Counter_Terms.H
+END
+Lorentz_Calculator.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Lorentz_Calculator.C
+END
+C_Object.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/C_Object.C
+END
+Dipole_Color.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Dipole_Color.C
+END
+Lorentz_Calculator.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Lorentz_Calculator.H
+END
+C_Object.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/C_Object.H
+END
+Vertex.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Vertex.C
+END
+Dipole_Color.H
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Dipole_Color.H
+END
+Current.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Current.C
+END
+Vertex.H
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Vertex.H
+END
+Dipole_Kinematics.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Dipole_Kinematics.C
+END
+Vertex_Key.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Vertex_Key.C
+END
+Dipole_Terms.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Dipole_Terms.C
+END
+Current.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Current.H
+END
+Color_Calculator.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Color_Calculator.C
+END
+Dipole_Kinematics.H
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Dipole_Kinematics.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Makefile.am
+END
+Vertex_Key.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Vertex_Key.H
+END
+Dipole_Terms.H
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Dipole_Terms.H
+END
+Dipole_Info.H
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Dipole_Info.H
+END
+Color_Calculator.H
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Explicit/Color_Calculator.H
+END

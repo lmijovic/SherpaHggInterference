@@ -1,0 +1,44 @@
+#!/bin/sh
+
+case $1 in
+  --version)
+    echo 2.2.0;;
+  --prefix)
+    echo /afs/cern.ch/work/s/soffi/CMSSW720-HggInt/src/hintmcnlo;;
+  --libs)
+    hepmc2libs=$(echo "-L/cvmfs/cms.cern.ch/slc6_amd64_gcc481/external/hepmc/2.06.07-cms4/lib -R/cvmfs/cms.cern.ch/slc6_amd64_gcc481/external/hepmc/2.06.07-cms4/lib -L/cvmfs/cms.cern.ch/slc6_amd64_gcc481/external/hepmc/2.06.07-cms4/lib64 -R/cvmfs/cms.cern.ch/slc6_amd64_gcc481/external/hepmc/2.06.07-cms4/lib64 -lHepMC" | cut -d " " -f 1,3);
+    echo -L/afs/cern.ch/work/s/soffi/CMSSW720-HggInt/src/hintmcnlo/lib/SHERPA-MC -lSherpaMain $hepmc2libs;;
+  --python-libs)
+    echo ;;
+  --load-mpi4py)
+    echo ;;
+  --incdir)
+    echo /afs/cern.ch/work/s/soffi/CMSSW720-HggInt/src/hintmcnlo/include/SHERPA-MC;;
+  --libdir)
+    echo /afs/cern.ch/work/s/soffi/CMSSW720-HggInt/src/hintmcnlo/lib/SHERPA-MC;;
+  --datadir)
+    echo /afs/cern.ch/work/s/soffi/CMSSW720-HggInt/src/hintmcnlo/share/SHERPA-MC;;
+  --ldflags)
+    hepmc2libs=$(echo "-L/cvmfs/cms.cern.ch/slc6_amd64_gcc481/external/hepmc/2.06.07-cms4/lib -R/cvmfs/cms.cern.ch/slc6_amd64_gcc481/external/hepmc/2.06.07-cms4/lib -L/cvmfs/cms.cern.ch/slc6_amd64_gcc481/external/hepmc/2.06.07-cms4/lib64 -R/cvmfs/cms.cern.ch/slc6_amd64_gcc481/external/hepmc/2.06.07-cms4/lib64 -lHepMC" | cut -d " " -f 1,3);
+    echo -L/afs/cern.ch/work/s/soffi/CMSSW720-HggInt/src/hintmcnlo/lib/SHERPA-MC -lSherpaMain $hepmc2libs -rdynamic -Wl,--no-as-needed;;
+  --cppflags)
+    echo -I/afs/cern.ch/work/s/soffi/CMSSW720-HggInt/src/hintmcnlo/include/SHERPA-MC;;
+  --cxx)
+    echo g++ -Wl,--no-as-needed;;
+  --fc)
+    echo gfortran;;
+  *)
+    echo "Sherpa-config: configuration tool for the Monte Carlo";
+    echo "               event generator Sherpa: http://sherpa.hepforge.org";
+    echo "Options:";
+    echo "  Sherpa-config --version  : returns Sherpa version";
+    echo "  Sherpa-config --prefix   : returns the installation path";
+    echo "  Sherpa-config --incdir   : returns the path of Sherpa headers";
+    echo "  Sherpa-config --libs     : returns the linker line to link with Sherpa";
+    echo "  Sherpa-config --datadir  : returns the path of Sherpa data (like Decaydata, PDFs)";
+    echo "  Sherpa-config --ldflags  : returns the LDFLAGS used for Sherpa";
+    echo "  Sherpa-config --cppflags : returns the preprocessor FLAGS needed for Sherpa headers";
+    echo "  Sherpa-config --cxx      : returns the C++ compiler used";
+    echo "  Sherpa-config --fc       : returns the FORTRAN compiler used";;
+esac
+

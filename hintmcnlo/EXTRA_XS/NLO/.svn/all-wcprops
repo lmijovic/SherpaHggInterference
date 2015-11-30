@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/NLO
+END
+Higgs_QCD_Virtual.C
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/NLO/Higgs_QCD_Virtual.C
+END
+epe2jet_CSS_approx.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/NLO/epe2jet_CSS_approx.C
+END
+DIS1jet_QCD_Virtual.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/NLO/DIS1jet_QCD_Virtual.C
+END
+Higgs_Jet_QCD_Virtual.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/NLO/Higgs_Jet_QCD_Virtual.C
+END
+ee3jet_CSS_approx.C
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/NLO/ee3jet_CSS_approx.C
+END
+SingleTop_QCD_Virtual.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/NLO/SingleTop_QCD_Virtual.C
+END
+Dummy_QCD_Virtual.C
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/NLO/Dummy_QCD_Virtual.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/NLO/Makefile.am
+END
+DY_QCD_Virtual.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/NLO/DY_QCD_Virtual.C
+END
+ee3jet_QCD_Virtual.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/NLO/ee3jet_QCD_Virtual.C
+END
+ppll1jet_CSS_approx.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/NLO/ppll1jet_CSS_approx.C
+END

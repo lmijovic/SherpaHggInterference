@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Decays
+END
+Decay_Table.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Decays/Decay_Table.H
+END
+Decay_Channel.H
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Decays/Decay_Channel.H
+END
+Decay_Map.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Decays/Decay_Map.C
+END
+Decay_Map.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Decays/Decay_Map.H
+END
+Color_Function_Decay.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Decays/Color_Function_Decay.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Decays/Makefile.am
+END
+Decay_Table.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Decays/Decay_Table.C
+END
+Decay_Channel.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Decays/Decay_Channel.C
+END

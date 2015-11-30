@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors
+END
+Fastjet_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Fastjet_Selector.C
+END
+Standard_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Standard_Selector.C
+END
+KT_Finder.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/KT_Finder.C
+END
+Decay2_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Decay2_Selector.C
+END
+Jet_Finder.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Jet_Finder.C
+END
+KT_Finder.H
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/KT_Finder.H
+END
+Cone_Finder.C
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Cone_Finder.C
+END
+Jet_Finder.H
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Jet_Finder.H
+END
+FastJet_Criterion.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/FastJet_Criterion.C
+END
+Selector_Bias.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Selector_Bias.C
+END
+Combined_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Combined_Selector.C
+END
+Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Selector.C
+END
+Cut_Data.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Cut_Data.C
+END
+MinSelector.C
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/MinSelector.C
+END
+Decay_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Decay_Selector.C
+END
+Combined_Selector.H
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Combined_Selector.H
+END
+Selector.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Selector.H
+END
+Variable_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Variable_Selector.C
+END
+NJet_Finder.C
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/NJet_Finder.C
+END
+Fastjet_Finder.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Fastjet_Finder.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Makefile.am
+END
+NLO_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/NLO_Selector.C
+END
+Cut_Data.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Cut_Data.H
+END
+Fastjet_Veto.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PHASIC++/Selectors/Fastjet_Veto.C
+END

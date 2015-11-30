@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main
+END
+ISR_Handler.H
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/ISR_Handler.H
+END
+Jet_Criterion.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/Jet_Criterion.C
+END
+Shower_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/Shower_Base.C
+END
+NLOMC_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/NLOMC_Base.C
+END
+PDF_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/PDF_Base.C
+END
+Structure_Function.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/Structure_Function.C
+END
+Jet_Criterion.H
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/Jet_Criterion.H
+END
+Cluster_Definitions_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/Cluster_Definitions_Base.C
+END
+Shower_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/Shower_Base.H
+END
+NLOMC_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/NLOMC_Base.H
+END
+PDF_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/PDF_Base.H
+END
+Structure_Function.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/Structure_Function.H
+END
+Cluster_Definitions_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/Cluster_Definitions_Base.H
+END
+Intact.C
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/Intact.C
+END
+Intact.H
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/Intact.H
+END
+ISR_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/ISR_Base.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/Makefile.am
+END
+ISR_Handler.C
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/ISR_Handler.C
+END
+ISR_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Main/ISR_Base.H
+END

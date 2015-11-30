@@ -1,0 +1,80 @@
+10
+
+dir
+26852
+http://sherpa.hepforge.org/svn/branches/hintmcnlo/SHRiMPS
+http://sherpa.hepforge.org/svn
+
+
+
+2015-06-18T23:10:41.197014Z
+26033
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ceaa0d5-930b-0410-b103-ea8c790846c7
+
+Cross_Sections
+dir
+
+Tools
+dir
+
+Main
+dir
+
+Eikonals
+dir
+
+Makefile.am
+file
+
+
+
+
+2015-11-15T12:54:14.000000Z
+9bc6395b0a6bead92dfa7a2aa04a4ff4
+2013-12-31T04:58:59.868676Z
+22982
+stefan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91
+
+Beam_Remnants
+dir
+
+Event_Generation
+dir
+

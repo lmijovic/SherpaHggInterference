@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics
+END
+Soft_Photon_Handler.C
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Soft_Photon_Handler.C
+END
+Fragmentation_Handler.H
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Fragmentation_Handler.H
+END
+Primordial_KPerp.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Primordial_KPerp.C
+END
+Resonance_Finder.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Resonance_Finder.C
+END
+Lund_Decay_Handler.C
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Lund_Decay_Handler.C
+END
+Soft_Photon_Handler.H
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Soft_Photon_Handler.H
+END
+Primordial_KPerp.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Primordial_KPerp.H
+END
+Lund_Decay_Handler.H
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Lund_Decay_Handler.H
+END
+Resonance_Finder.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Resonance_Finder.H
+END
+Parametrised_Beam_Remnants.C
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Parametrised_Beam_Remnants.C
+END
+Hadron_Decay_Handler.C
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Hadron_Decay_Handler.C
+END
+Parametrised_Beam_Remnants.H
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Parametrised_Beam_Remnants.H
+END
+Hadron_Decay_Handler.H
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Hadron_Decay_Handler.H
+END
+Soft_Collision_Handler.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Soft_Collision_Handler.C
+END
+Beam_Remnant_Handler.C
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Beam_Remnant_Handler.C
+END
+Cluster_Algorithm.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Cluster_Algorithm.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Makefile.am
+END
+Soft_Collision_Handler.H
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Soft_Collision_Handler.H
+END
+Beam_Remnant_Handler.H
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Beam_Remnant_Handler.H
+END
+Fragmentation_Handler.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Fragmentation_Handler.C
+END
+Cluster_Algorithm.H
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/SHERPA/SoftPhysics/Cluster_Algorithm.H
+END

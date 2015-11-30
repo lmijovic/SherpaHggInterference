@@ -1,0 +1,69 @@
+/* ATOOLS/Org/CXXFLAGS_PACKAGES.H.  Generated from CXXFLAGS_PACKAGES.H.in by configure.  */
+/* Using HEPMC2 */
+#define USING__HEPMC2 "1"
+
+/* HepMC::IO_GenEvent available */
+#define USING__HEPMC2__IOGENEVENT "1"
+
+/* HepMC::Units available */
+#define USING__HEPMC2__UNITS "1"
+
+/* HepMCDefs.h available */
+#define USING__HEPMC2__DEFS "1"
+
+/* using gzip */
+/* #undef USING__GZIP */
+
+/* using sqlite */
+/* #undef USING__SQLITE */
+
+/* using LHAPDF */
+/* #undef USING__LHAPDF */
+
+/* using LHAPDF v6*/
+/* #undef USING__LHAPDF6 */
+
+/* hztool found */
+/* #undef USING__HZTOOL */
+
+/* cernlib found */
+/* #undef USING__CERNLIB */
+
+/* using LHAPDF */
+/* #undef LHAPDF_PATH */
+
+/* using native C++ wrapper in v5*/
+/* #undef LHAPDF__NATIVE__WRAPPER */
+
+/* using ROOT */
+/* #undef USING__ROOT */
+
+/* using Rivet */
+/* #undef USING__RIVET */
+
+/* setSumOfWeights function available in Rivet */
+/* #undef USING__RIVET__SETSOW */
+
+/* Rivet uses YODA as its histogramming backend */
+/* #undef USING__RIVET__YODA */
+
+/* using FASTJET */
+/* #undef USING__FASTJET */
+
+/* using FASTJET 3 */
+/* #undef USING__FASTJET__3 */
+
+/* using BLACKHAT */
+/* #undef USING__BLACKHAT */
+
+/* BLACKHAT directory */
+/* #undef BLACKHAT_PATH */
+
+/* OpenLoops installation prefix */
+/* #undef OPENLOOPS_PREFIX */
+
+/* using MCFM */
+/* #undef USING__MCFM */
+
+/* using Delphes */
+/* #undef USING__DELPHES */

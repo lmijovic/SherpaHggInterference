@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/HEFT
+END
+Model.C
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/HEFT/Model.C
+END
+Effective_Higgs_Coupling.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/HEFT/Effective_Higgs_Coupling.C
+END
+SVVV_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/HEFT/SVVV_LC.C
+END
+Effective_Higgs_Coupling.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/HEFT/Effective_Higgs_Coupling.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/HEFT/Makefile.am
+END
+SVVVV_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/HEFT/SVVVV_LC.C
+END
+SVVP_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/HEFT/SVVP_LC.C
+END
+SVV_LC.C
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/HEFT/SVV_LC.C
+END

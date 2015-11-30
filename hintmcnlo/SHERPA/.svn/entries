@@ -1,0 +1,86 @@
+10
+
+dir
+26852
+http://sherpa.hepforge.org/svn/branches/hintmcnlo/SHERPA
+http://sherpa.hepforge.org/svn
+
+
+
+2015-11-12T03:50:07.012176Z
+26830
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ceaa0d5-930b-0410-b103-ea8c790846c7
+
+PerturbativePhysics
+dir
+
+Tools
+dir
+
+LundTools
+dir
+
+Main
+dir
+
+Run
+dir
+
+Single_Events
+dir
+
+Initialization
+dir
+
+Makefile.am
+file
+
+
+
+
+2015-11-15T12:53:56.000000Z
+05efc64ae9044f4fe4821f8ba4c8b23c
+2009-06-16T13:58:28.669771Z
+12741
+fsiegert
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+134
+
+SoftPhysics
+dir
+

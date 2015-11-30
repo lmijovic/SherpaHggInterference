@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/LH_OLE
+END
+LH_OLE_Communicator.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/LH_OLE/LH_OLE_Communicator.C
+END
+LH_OLE_Interface.C
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/LH_OLE/LH_OLE_Interface.C
+END
+LH_OLE_Communicator.H
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/LH_OLE/LH_OLE_Communicator.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/LH_OLE/Makefile.am
+END

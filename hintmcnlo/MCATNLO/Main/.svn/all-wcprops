@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Main
+END
+CS_Cluster_Definitions.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Main/CS_Cluster_Definitions.C
+END
+CS_MCatNLO.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Main/CS_MCatNLO.C
+END
+CS_Cluster_Definitions.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Main/CS_Cluster_Definitions.H
+END
+CS_Gamma.C
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Main/CS_Gamma.C
+END
+CS_MCatNLO.H
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Main/CS_MCatNLO.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Main/Makefile.am
+END
+CS_Gamma.H
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Main/CS_Gamma.H
+END

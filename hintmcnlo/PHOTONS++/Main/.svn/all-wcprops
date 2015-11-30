@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Main
+END
+Photons.H
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Main/Photons.H
+END
+Dipole_Type.H
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Main/Dipole_Type.H
+END
+Define_Dipole.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Main/Define_Dipole.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Main/Makefile.am
+END
+Photons.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Main/Photons.C
+END
+Define_Dipole.H
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Main/Define_Dipole.H
+END
+Dipole_Type.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Main/Dipole_Type.C
+END

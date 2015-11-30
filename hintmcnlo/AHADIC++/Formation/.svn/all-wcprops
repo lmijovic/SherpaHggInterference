@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Formation
+END
+Cluster_Former.H
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Formation/Cluster_Former.H
+END
+Gluon_Decayer.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Formation/Gluon_Decayer.C
+END
+Cluster_Formation_Handler.H
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Formation/Cluster_Formation_Handler.H
+END
+Colour_Reconnections.H
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Formation/Colour_Reconnections.H
+END
+Gluon_Decayer.H
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Formation/Gluon_Decayer.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Formation/Makefile.am
+END
+Cluster_Former.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Formation/Cluster_Former.C
+END
+Cluster_Formation_Handler.C
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Formation/Cluster_Formation_Handler.C
+END
+Colour_Reconnections.C
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/AHADIC++/Formation/Colour_Reconnections.C
+END

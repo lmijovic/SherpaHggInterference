@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions
+END
+Calculator.H
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Calculator.H
+END
+Basic_Func.H
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Basic_Func.H
+END
+Basic_Sfuncs.C
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Basic_Sfuncs.C
+END
+VVV_Calc.C
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/VVV_Calc.C
+END
+MHVCalculator.C
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/MHVCalculator.C
+END
+Unitarityfunc.C
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Unitarityfunc.C
+END
+Basic_Sfuncs.H
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Basic_Sfuncs.H
+END
+Zfunc_Calc.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Zfunc_Calc.C
+END
+Basic_MassTermfunc.C
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Basic_MassTermfunc.C
+END
+Basic_Func.icc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Basic_Func.icc
+END
+Basic_Mfunc.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Basic_Mfunc.C
+END
+MHVCalculator.H
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/MHVCalculator.H
+END
+V4_Calc.C
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/V4_Calc.C
+END
+Basic_Pfunc.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Basic_Pfunc.C
+END
+Zfunc_Calc.H
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Zfunc_Calc.H
+END
+Loops_Calc.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Loops_Calc.C
+END
+Basic_Vfunc.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Basic_Vfunc.C
+END
+Basic_Xfunc.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Basic_Xfunc.C
+END
+Basic_Yfunc.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Basic_Yfunc.C
+END
+Basic_Zfunc.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Basic_Zfunc.C
+END
+Basic_Epsilonfunc.C
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Basic_Epsilonfunc.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Makefile.am
+END
+Mom.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Mom.C
+END
+Calculator.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Calculator.C
+END
+G4_Calc.C
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/G4_Calc.C
+END
+Basic_Func.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Basic_Func.C
+END
+Mom.H
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/Amplitude/Zfunctions/Mom.H
+END

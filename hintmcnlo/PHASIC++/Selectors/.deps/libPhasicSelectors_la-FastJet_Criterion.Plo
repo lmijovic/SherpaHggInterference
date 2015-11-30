@@ -1,0 +1,4 @@
+libPhasicSelectors_la-FastJet_Criterion.lo: FastJet_Criterion.C \
+ ../../ATOOLS/Org/CXXFLAGS_PACKAGES.H
+
+../../ATOOLS/Org/CXXFLAGS_PACKAGES.H:

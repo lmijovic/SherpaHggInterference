@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO
+END
+colour_converter.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/colour_converter.py
+END
+UFO_Param_Reader.H
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/UFO_Param_Reader.H
+END
+py_to_cpp.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/py_to_cpp.py
+END
+color_interface.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/color_interface.py
+END
+templates.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/templates.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/__init__.py
+END
+s_vertex.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/s_vertex.py
+END
+lorentz_structures.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/lorentz_structures.py
+END
+run_card_template
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/run_card_template
+END
+s_coupling.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/s_coupling.py
+END
+s_parameter.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/s_parameter.py
+END
+UFO_Model.C
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/UFO_Model.C
+END
+lorentz_calc_template.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/lorentz_calc_template.C
+END
+ufo_exception.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/ufo_exception.py
+END
+write_run_card.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/write_run_card.py
+END
+UFO_Model.H
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/UFO_Model.H
+END
+UFO_Color_Functions.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/UFO_Color_Functions.C
+END
+tensor.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/tensor.py
+END
+write_model.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/write_model.py
+END
+UFO_Color_Functions.H
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/UFO_Color_Functions.H
+END
+s_lorentz.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/s_lorentz.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/test.py
+END
+sconstruct_template.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/sconstruct_template.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/Makefile.am
+END
+message.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/message.py
+END
+model_template.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/model_template.C
+END
+UFO_Param_Reader.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/UFO_Param_Reader.C
+END
+s_particle.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/s_particle.py
+END
+Sherpa-generate-model.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/Sherpa-generate-model.in
+END
+c_variable.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/UFO/c_variable.py
+END

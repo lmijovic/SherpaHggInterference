@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Scripts
+END
+get_mean
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Scripts/get_mean
+END
+Combine_Analysis.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Scripts/Combine_Analysis.C
+END
+sherpa2mp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Scripts/sherpa2mp
+END
+calc_mean
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Scripts/calc_mean
+END
+anasum
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Scripts/anasum
+END
+treatmultis.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Scripts/treatmultis.py
+END
+testxs.cmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Scripts/testxs.cmp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Scripts/Makefile.am
+END
+get_norm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Scripts/get_norm
+END
+testxs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Scripts/testxs
+END
+testxs.awk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Analysis/Scripts/testxs.awk
+END

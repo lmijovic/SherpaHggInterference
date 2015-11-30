@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction
+END
+II_DipoleSplitting.H
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/II_DipoleSplitting.H
+END
+DipoleSplitting_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/DipoleSplitting_Base.C
+END
+Single_DipoleTerm.C
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Single_DipoleTerm.C
+END
+DipoleSplitting_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/DipoleSplitting_Base.H
+END
+Single_LOProcess.C
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Single_LOProcess.C
+END
+Single_DipoleTerm.H
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Single_DipoleTerm.H
+END
+Single_OSTerm.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Single_OSTerm.C
+END
+Single_Real_Correction.C
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Single_Real_Correction.C
+END
+Single_LOProcess_External.C
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Single_LOProcess_External.C
+END
+Single_Virtual_Correction.C
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Single_Virtual_Correction.C
+END
+Single_LOProcess.H
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Single_LOProcess.H
+END
+Single_OSTerm.H
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Single_OSTerm.H
+END
+Single_Real_Correction.H
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Single_Real_Correction.H
+END
+Single_LOProcess_External.H
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Single_LOProcess_External.H
+END
+Single_Virtual_Correction.H
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Single_Virtual_Correction.H
+END
+Single_LOProcess_MHV.C
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Single_LOProcess_MHV.C
+END
+FF_DipoleSplitting.C
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/FF_DipoleSplitting.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Makefile.am
+END
+IF_DipoleSplitting.C
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/IF_DipoleSplitting.C
+END
+FI_DipoleSplitting.C
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/FI_DipoleSplitting.C
+END
+Single_LOProcess_MHV.H
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/Single_LOProcess_MHV.H
+END
+FF_DipoleSplitting.H
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/FF_DipoleSplitting.H
+END
+II_DipoleSplitting.C
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/II_DipoleSplitting.C
+END
+IF_DipoleSplitting.H
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/IF_DipoleSplitting.H
+END
+FI_DipoleSplitting.H
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26819/branches/hintmcnlo/AMEGIC++/DipoleSubtraction/FI_DipoleSplitting.H
+END

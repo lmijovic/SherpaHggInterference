@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/BlackHat
+END
+BlackHat_Virtual.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/BlackHat/BlackHat_Virtual.C
+END
+BlackHat_Virtual.H
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/BlackHat/BlackHat_Virtual.H
+END
+BlackHat_Tree.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/BlackHat/BlackHat_Tree.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/BlackHat/Makefile.am
+END
+BlackHat_Interface.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/BlackHat/BlackHat_Interface.C
+END
+BlackHat_Tree.H
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/BlackHat/BlackHat_Tree.H
+END

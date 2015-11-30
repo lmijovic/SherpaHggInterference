@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/PhaseSpace
+END
+Generate_Multipole_Photon_Angle.C
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/PhaseSpace/Generate_Multipole_Photon_Angle.C
+END
+Generate_Dipole_Photon_Angle.C
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/PhaseSpace/Generate_Dipole_Photon_Angle.C
+END
+Avarage_Photon_Number.C
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/PhaseSpace/Avarage_Photon_Number.C
+END
+Generate_Multipole_Photon_Angle.H
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/PhaseSpace/Generate_Multipole_Photon_Angle.H
+END
+Generate_Dipole_Photon_Angle.H
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/PhaseSpace/Generate_Dipole_Photon_Angle.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/PhaseSpace/Makefile.am
+END
+Avarage_Photon_Number.H
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/PhaseSpace/Avarage_Photon_Number.H
+END

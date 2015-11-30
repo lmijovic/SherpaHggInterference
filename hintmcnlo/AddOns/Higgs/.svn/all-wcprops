@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs
+END
+dilog.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/dilog.C
+END
+qqggg_loop.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/qqggg_loop.C
+END
+A_spin2.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/A_spin2.h
+END
+A_higgs.C
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/A_higgs.C
+END
+Higgs_Selector.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/Higgs_Selector.C
+END
+Ahiggs.C
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/Ahiggs.C
+END
+dilog.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/dilog.h
+END
+Wrappers.C
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/Wrappers.C
+END
+A_cont.C
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/A_cont.C
+END
+Acont.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/Acont.C
+END
+gggamgam1l.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/gggamgam1l.C
+END
+gggamgam2l.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/gggamgam2l.C
+END
+A_higgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/A_higgs.h
+END
+Higgs_Virtual.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/Higgs_Virtual.C
+END
+Ahiggs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/Ahiggs.h
+END
+Wrappers.H
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/Wrappers.H
+END
+A_cont.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/A_cont.h
+END
+Acont.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/Acont.h
+END
+gggg.C
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/gggg.C
+END
+Higgs_Virtual.H
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/Higgs_Virtual.H
+END
+qqgg_tree.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/qqgg_tree.C
+END
+Higgs_Tree.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/Higgs_Tree.C
+END
+Higgs_Interface.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/Higgs_Interface.C
+END
+ggggg.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/ggggg.C
+END
+Higgs_Tree.H
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/Higgs_Tree.H
+END
+qqggg_tree.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/qqggg_tree.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/Makefile.am
+END
+qqgg_loop.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/qqgg_loop.C
+END
+A_spin2.C
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/Higgs/A_spin2.C
+END

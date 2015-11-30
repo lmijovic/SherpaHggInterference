@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 64
+Sherpa.py
+Sherpa_wrap.cxx
+Makefile.in
+SVN_Info.C
+.deps
+Makefile
+
+END

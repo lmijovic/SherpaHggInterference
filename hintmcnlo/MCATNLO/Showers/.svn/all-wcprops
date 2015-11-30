@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Showers
+END
+Splitting_Function_Group.C
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Showers/Splitting_Function_Group.C
+END
+Kinematics_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Showers/Kinematics_Base.C
+END
+Splitting_Function_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Showers/Splitting_Function_Base.H
+END
+Sudakov.H
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Showers/Sudakov.H
+END
+Splitting_Function_Group.H
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Showers/Splitting_Function_Group.H
+END
+Kinematics_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Showers/Kinematics_Base.H
+END
+Shower.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Showers/Shower.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Showers/Makefile.am
+END
+Shower.H
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Showers/Shower.H
+END
+Splitting_Function_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Showers/Splitting_Function_Base.C
+END
+Sudakov.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/MCATNLO/Showers/Sudakov.C
+END

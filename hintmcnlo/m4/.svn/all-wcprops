@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/26819/branches/hintmcnlo/m4
+END
+ax_lib_sqlite3.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/m4/ax_lib_sqlite3.m4
+END
+ax_pkg_swig.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26819/branches/hintmcnlo/m4/ax_pkg_swig.m4
+END
+ax_swig_python.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/m4/ax_swig_python.m4
+END
+ax_prog_cxx_mpi.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/m4/ax_prog_cxx_mpi.m4
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/26819/branches/hintmcnlo/m4/acinclude.m4
+END
+ax_python_devel.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/m4/ax_python_devel.m4
+END
+ax_swig_enable_cxx.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/m4/ax_swig_enable_cxx.m4
+END
+ax_swig_multi_module_support.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/m4/ax_swig_multi_module_support.m4
+END

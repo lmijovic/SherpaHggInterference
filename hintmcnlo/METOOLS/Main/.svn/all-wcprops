@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main
+END
+Spin_Structure.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Spin_Structure.H
+END
+XYZFuncs.H
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/XYZFuncs.H
+END
+Partial_Amplitude_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Partial_Amplitude_Base.H
+END
+Polarization_Tools.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Polarization_Tools.H
+END
+Full_Amplitude_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Full_Amplitude_Base.C
+END
+Polarization_Index.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Polarization_Index.C
+END
+Full_Amplitude_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Full_Amplitude_Base.H
+END
+Polarization_Index.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Polarization_Index.H
+END
+Three_Particle_Amplitudes.C
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Three_Particle_Amplitudes.C
+END
+Four_Particle_Amplitudes.C
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Four_Particle_Amplitudes.C
+END
+Three_Particle_Amplitudes.H
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Three_Particle_Amplitudes.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Makefile.am
+END
+XYZFuncs.C
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/XYZFuncs.C
+END
+Spin_Structure.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Spin_Structure.C
+END
+Partial_Amplitude_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Partial_Amplitude_Base.C
+END
+Four_Particle_Amplitudes.H
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Four_Particle_Amplitudes.H
+END
+Polarization_Tools.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/Main/Polarization_Tools.C
+END

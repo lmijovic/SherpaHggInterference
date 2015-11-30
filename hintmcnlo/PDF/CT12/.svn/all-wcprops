@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/CT12
+END
+CT12_Fortran_Interface.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/CT12/CT12_Fortran_Interface.C
+END
+CT12Pdf.f
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/CT12/CT12Pdf.f
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/CT12/Makefile.am
+END

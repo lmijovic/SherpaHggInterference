@@ -1,0 +1,64 @@
+libToolsOrg_la-RUsage.lo: RUsage.C ../../ATOOLS/Org/RUsage.H \
+ /cvmfs/cms.cern.ch/slc6_amd64_gcc481/external/gcc/4.8.1/lib/gcc/x86_64-redhat-linux-gnu/4.8.1/include/stddef.h \
+ /usr/include/unistd.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/posix_opt.h \
+ /usr/include/bits/environments.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/bits/confname.h \
+ /usr/include/getopt.h /usr/include/sys/resource.h \
+ /usr/include/bits/resource.h /usr/include/bits/time.h \
+ /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
+ /usr/include/wchar.h \
+ /cvmfs/cms.cern.ch/slc6_amd64_gcc481/external/gcc/4.8.1/lib/gcc/x86_64-redhat-linux-gnu/4.8.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h
+
+../../ATOOLS/Org/RUsage.H:
+
+/cvmfs/cms.cern.ch/slc6_amd64_gcc481/external/gcc/4.8.1/lib/gcc/x86_64-redhat-linux-gnu/4.8.1/include/stddef.h:
+
+/usr/include/unistd.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/posix_opt.h:
+
+/usr/include/bits/environments.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/bits/confname.h:
+
+/usr/include/getopt.h:
+
+/usr/include/sys/resource.h:
+
+/usr/include/bits/resource.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/cvmfs/cms.cern.ch/slc6_amd64_gcc481/external/gcc/4.8.1/lib/gcc/x86_64-redhat-linux-gnu/4.8.1/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:

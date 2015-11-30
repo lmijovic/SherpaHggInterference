@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant
+END
+Remnant_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/Remnant_Base.C
+END
+Hadron_Remnant.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/Hadron_Remnant.C
+END
+Electron_Remnant.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/Electron_Remnant.C
+END
+Photon_Remnant.H
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/Photon_Remnant.H
+END
+No_Remnant.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/No_Remnant.C
+END
+Remnant_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/Remnant_Base.H
+END
+Hadron_Remnant.H
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/Hadron_Remnant.H
+END
+Electron_Remnant.H
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/Electron_Remnant.H
+END
+No_Remnant.H
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/No_Remnant.H
+END
+Color_Dipole.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/Color_Dipole.C
+END
+Color_Dipole.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/Color_Dipole.H
+END
+QCD_Remnant_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/QCD_Remnant_Base.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/Makefile.am
+END
+QCD_Remnant_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/QCD_Remnant_Base.H
+END
+Photon_Remnant.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/Remnant/Photon_Remnant.C
+END

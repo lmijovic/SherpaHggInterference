@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Main
+END
+CS_Cluster_Definitions.C
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Main/CS_Cluster_Definitions.C
+END
+CS_Shower.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Main/CS_Shower.H
+END
+Color_Setter.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Main/Color_Setter.C
+END
+CS_Cluster_Definitions.H
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Main/CS_Cluster_Definitions.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Main/Makefile.am
+END
+Color_Setter.H
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Main/Color_Setter.H
+END
+CS_Shower.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Main/CS_Shower.C
+END

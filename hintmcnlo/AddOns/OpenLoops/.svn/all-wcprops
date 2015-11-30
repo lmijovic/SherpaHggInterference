@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/OpenLoops
+END
+OpenLoops_Born.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/OpenLoops/OpenLoops_Born.C
+END
+OpenLoops_Interface.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/OpenLoops/OpenLoops_Interface.C
+END
+GGH_Process_Manager.H
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/OpenLoops/GGH_Process_Manager.H
+END
+OpenLoops_Born.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/OpenLoops/OpenLoops_Born.H
+END
+OpenLoops_Interface.H
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/OpenLoops/OpenLoops_Interface.H
+END
+GGH_KFactor_Setter.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/OpenLoops/GGH_KFactor_Setter.C
+END
+OpenLoops_Virtual.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/OpenLoops/OpenLoops_Virtual.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/OpenLoops/Makefile.am
+END
+GGH_Decay_KFactor_Setter.C
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/OpenLoops/GGH_Decay_KFactor_Setter.C
+END
+GGH_KFactor_Setter.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/OpenLoops/GGH_KFactor_Setter.H
+END
+OpenLoops_Virtual.H
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/OpenLoops/OpenLoops_Virtual.H
+END
+GGH_Process_Manager.C
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26819/branches/hintmcnlo/AddOns/OpenLoops/GGH_Process_Manager.C
+END

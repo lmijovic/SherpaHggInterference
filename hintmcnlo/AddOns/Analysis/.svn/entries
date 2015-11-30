@@ -1,0 +1,80 @@
+10
+
+dir
+26852
+http://sherpa.hepforge.org/svn/branches/hintmcnlo/AddOns/Analysis
+http://sherpa.hepforge.org/svn
+
+
+
+2015-09-15T20:42:12.321754Z
+26450
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ceaa0d5-930b-0410-b103-ea8c790846c7
+
+Analyses
+dir
+
+Tools
+dir
+
+Main
+dir
+
+Triggers
+dir
+
+Observables
+dir
+
+Scripts
+dir
+
+Makefile.am
+file
+
+
+
+
+2015-11-15T12:55:08.000000Z
+ca1575afce768c153449746cea3b1611
+2013-12-31T04:58:59.868676Z
+22982
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60
+

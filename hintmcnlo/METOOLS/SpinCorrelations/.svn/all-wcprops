@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/SpinCorrelations
+END
+Decay_Matrix.H
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/SpinCorrelations/Decay_Matrix.H
+END
+Amplitude2_Matrix.H
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/SpinCorrelations/Amplitude2_Matrix.H
+END
+Amplitude2_Tensor.C
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/SpinCorrelations/Amplitude2_Tensor.C
+END
+Amplitude2_Tensor.H
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/SpinCorrelations/Amplitude2_Tensor.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/SpinCorrelations/Makefile.am
+END
+Spin_Density.C
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/SpinCorrelations/Spin_Density.C
+END
+Decay_Matrix.C
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/SpinCorrelations/Decay_Matrix.C
+END
+Amplitude2_Matrix.C
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/SpinCorrelations/Amplitude2_Matrix.C
+END
+Spin_Density.H
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/METOOLS/SpinCorrelations/Spin_Density.H
+END

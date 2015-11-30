@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Calculators
+END
+CF_QCD.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Calculators/CF_QCD.C
+END
+CF_QED.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Calculators/CF_QED.C
+END
+LF_FFV.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Calculators/LF_FFV.C
+END
+LF_VVV.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Calculators/LF_VVV.C
+END
+CF_EW_FFV.C
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Calculators/CF_EW_FFV.C
+END
+CF_HV.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Calculators/CF_HV.C
+END
+LF_Triangle.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Calculators/LF_Triangle.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Calculators/Makefile.am
+END
+LF_SSV.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Calculators/LF_SSV.C
+END
+CF_Triangle.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/CSSHOWER++/Calculators/CF_Triangle.C
+END

@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math
+END
+Tensor_Contractions_Epsilon.H
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Tensor_Contractions_Epsilon.H
+END
+Marsaglia.C
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Marsaglia.C
+END
+Histogram.H
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Histogram.H
+END
+Axis.C
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Axis.C
+END
+Marsaglia.H
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Marsaglia.H
+END
+Term.C
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Term.C
+END
+Axis.H
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Axis.H
+END
+Tensor.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Tensor.C
+END
+MathTools.C
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/MathTools.C
+END
+Term.H
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Term.H
+END
+Tensor.H
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Tensor.H
+END
+Function_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Function_Base.C
+END
+MathTools.H
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/MathTools.H
+END
+Scaling.C
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Scaling.C
+END
+Gauss_Integrator.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Gauss_Integrator.C
+END
+PermStore.C
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/PermStore.C
+END
+Histogram_2D.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Histogram_2D.C
+END
+Function_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Function_Base.H
+END
+ZAlign.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/ZAlign.C
+END
+Scaling.H
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Scaling.H
+END
+PermStore.H
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/PermStore.H
+END
+Gauss_Integrator.H
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Gauss_Integrator.H
+END
+Histogram_2D.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Histogram_2D.H
+END
+ZAlign.H
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/ZAlign.H
+END
+Lorentz_Ten2.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Lorentz_Ten2.H
+END
+Lorentz_Ten3.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Lorentz_Ten3.H
+END
+Lorentz_Ten4.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Lorentz_Ten4.H
+END
+Tensor_Build.H
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Tensor_Build.H
+END
+Poincare.C
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Poincare.C
+END
+Vector.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Vector.C
+END
+Fast_Function.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Fast_Function.C
+END
+Matrix.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Matrix.C
+END
+Vec3.H
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Vec3.H
+END
+Tensor_Contractions.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Tensor_Contractions.H
+END
+Poincare.H
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Poincare.H
+END
+Vec4.H
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Vec4.H
+END
+Permutation.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Permutation.C
+END
+Fast_Function.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Fast_Function.H
+END
+Vector.H
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Vector.H
+END
+Matrix.H
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Matrix.H
+END
+Permutation.H
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Permutation.H
+END
+Kabbala.C
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Kabbala.C
+END
+Algebra_Interpreter.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Algebra_Interpreter.C
+END
+Random.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Random.C
+END
+MyComplex.H
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/MyComplex.H
+END
+Kabbala.H
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Kabbala.H
+END
+Algebra_Interpreter.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Algebra_Interpreter.H
+END
+Random.H
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Random.H
+END
+Variable.C
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Variable.C
+END
+Cluster_Algorithm.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Cluster_Algorithm.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Makefile.am
+END
+Variable.H
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Variable.H
+END
+Cluster_Algorithm.H
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Cluster_Algorithm.H
+END
+Histogram.C
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/ATOOLS/Math/Histogram.C
+END

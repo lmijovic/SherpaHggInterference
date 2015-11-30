@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/NNPDF
+END
+NNPDFDriver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/NNPDF/NNPDFDriver.cc
+END
+PDF_NN.C
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/NNPDF/PDF_NN.C
+END
+NNPDFDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/NNPDF/NNPDFDriver.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/NNPDF/Makefile.am
+END
+nnpdf30.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/NNPDF/nnpdf30.tar.bz2
+END

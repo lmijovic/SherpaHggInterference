@@ -1,0 +1,175 @@
+10
+
+dir
+26852
+http://sherpa.hepforge.org/svn/branches/hintmcnlo/AddOns
+http://sherpa.hepforge.org/svn
+
+
+
+2015-09-18T23:50:51.271819Z
+26484
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ceaa0d5-930b-0410-b103-ea8c790846c7
+
+HZTool
+dir
+
+Python
+dir
+
+MCFM
+dir
+
+Analysis
+dir
+
+Root
+dir
+
+Delphes
+dir
+
+PGS
+dir
+
+Rivet
+dir
+
+HEPEVT
+dir
+
+HepMC
+dir
+
+Pythia
+dir
+
+Higgs
+dir
+
+LH_OLE
+dir
+
+Db2Dir
+file
+
+
+
+
+2015-11-15T12:55:12.000000Z
+c989e420f4196cd7f0d9251787fbe48e
+2014-01-07T09:38:52.226562Z
+22997
+fsiegert
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+506
+
+Dir2Db
+file
+
+
+
+
+2015-11-15T12:55:12.000000Z
+2cb3651e5dc4e21135aec70320b32766
+2015-06-18T23:10:41.197014Z
+26033
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+513
+
+BlackHat
+dir
+
+Makefile.am
+file
+
+
+
+
+2015-11-15T12:55:12.000000Z
+d82e145e03c142329fe9c8cd05ff1735
+2014-02-20T20:56:30.359574Z
+23324
+stefan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+249
+
+OpenLoops
+dir
+

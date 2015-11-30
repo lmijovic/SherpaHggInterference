@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MRST
+END
+PDF_MRST01LO.H
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MRST/PDF_MRST01LO.H
+END
+PDF_MRST99.C
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MRST/PDF_MRST99.C
+END
+PDF_MRST04QED.H
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MRST/PDF_MRST04QED.H
+END
+PDF_MRST99.H
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MRST/PDF_MRST99.H
+END
+mrst2001lo.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MRST/mrst2001lo.f
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MRST/Makefile.am
+END
+mrst2004qed.f
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MRST/mrst2004qed.f
+END
+PDF_MRST01LO.C
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MRST/PDF_MRST01LO.C
+END
+mrst99.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MRST/mrst99.cc
+END
+PDF_MRST04QED.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MRST/PDF_MRST04QED.C
+END
+mrst99.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26819/branches/hintmcnlo/PDF/MRST/mrst99.h
+END

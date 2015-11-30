@@ -1,0 +1,26 @@
+K 10
+svn:ignore
+V 268
+hadrons.*
+SingleDecay
+SingleDecayPhotons
+HadronFullDecayMixingAnalysis
+HadronFullDecayInclusiveAnalysis
+HadronFullDecayNoAnalysis
+PhotonAnalysis
+PhotonAnalysisBR
+Analysis
+Decaydata
+Status__*
+makelibs
+Process
+Results
+Sherpa_References.tex
+
+Makefile.in
+
+.deps
+
+Makefile
+
+END

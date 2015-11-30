@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools
+END
+Dipole_FI.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Dipole_FI.H
+END
+Dress_Blob_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Dress_Blob_Base.C
+END
+Weight_YFS.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Weight_YFS.C
+END
+Weight_Jacobian.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Weight_Jacobian.C
+END
+Dress_Blob_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Dress_Blob_Base.H
+END
+Weight_YFS.H
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Weight_YFS.H
+END
+Weight_Jacobian.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Weight_Jacobian.H
+END
+Weight_Higher_Order_Corrections.C
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Weight_Higher_Order_Corrections.C
+END
+Generate_One_Photon.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Generate_One_Photon.C
+END
+YFS_Form_Factor.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/YFS_Form_Factor.C
+END
+Weight_Dipole.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Weight_Dipole.C
+END
+Weight_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Weight_Base.H
+END
+Dipole_FF.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Dipole_FF.C
+END
+YFS_Form_Factor.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/YFS_Form_Factor.H
+END
+Generate_One_Photon.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Generate_One_Photon.H
+END
+Weight_Higher_Order_Corrections.H
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Weight_Higher_Order_Corrections.H
+END
+Weight_Dipole.H
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Weight_Dipole.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Makefile.am
+END
+Dipole_FI.C
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Dipole_FI.C
+END
+Dipole_FF.H
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26819/branches/hintmcnlo/PHOTONS++/Tools/Dipole_FF.H
+END

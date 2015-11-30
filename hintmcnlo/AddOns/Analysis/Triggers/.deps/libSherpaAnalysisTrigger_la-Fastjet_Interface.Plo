@@ -1,0 +1,4 @@
+libSherpaAnalysisTrigger_la-Fastjet_Interface.lo: Fastjet_Interface.C \
+ ../../../ATOOLS/Org/CXXFLAGS_PACKAGES.H
+
+../../../ATOOLS/Org/CXXFLAGS_PACKAGES.H:

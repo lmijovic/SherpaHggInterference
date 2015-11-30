@@ -1,0 +1,83 @@
+10
+
+dir
+26852
+http://sherpa.hepforge.org/svn/branches/hintmcnlo/PHASIC++
+http://sherpa.hepforge.org/svn
+
+
+
+2015-11-12T05:16:38.051872Z
+26831
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ceaa0d5-930b-0410-b103-ea8c790846c7
+
+Enhance
+dir
+
+Selectors
+dir
+
+Main
+dir
+
+Decays
+dir
+
+Makefile.am
+file
+
+
+
+
+2015-11-15T12:54:24.000000Z
+71be419d7dc5fea739e2195718313f42
+2012-01-17T01:13:58.277300Z
+18787
+stefan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+70
+
+Scales
+dir
+
+Channels
+dir
+
+Process
+dir
+

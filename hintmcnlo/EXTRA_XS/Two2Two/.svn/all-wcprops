@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/Two2Two
+END
+XS_DiPhoton.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/Two2Two/XS_DiPhoton.C
+END
+gg_yy.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/Two2Two/gg_yy.C
+END
+XS_QCD.C
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/Two2Two/XS_QCD.C
+END
+yy_bobo.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/Two2Two/yy_bobo.C
+END
+XS_4F.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/Two2Two/XS_4F.C
+END
+XS_Drell_Yan.C
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/Two2Two/XS_Drell_Yan.C
+END
+XS_SQCD.C
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/Two2Two/XS_SQCD.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/Two2Two/Makefile.am
+END
+ee_Y4S_BB.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/EXTRA_XS/Two2Two/ee_Y4S_BB.C
+END

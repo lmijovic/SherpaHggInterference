@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/HADRONS++/PS_Library
+END
+Three_Body_PSs.H
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/HADRONS++/PS_Library/Three_Body_PSs.H
+END
+Two_Body_PSs.H
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/HADRONS++/PS_Library/Two_Body_PSs.H
+END
+ResonanceFlavour.H
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/HADRONS++/PS_Library/ResonanceFlavour.H
+END
+Four_Body_PSs.H
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/HADRONS++/PS_Library/Four_Body_PSs.H
+END
+HD_PS_Base.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/HADRONS++/PS_Library/HD_PS_Base.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26819/branches/hintmcnlo/HADRONS++/PS_Library/Makefile.am
+END
+Three_Body_PSs.C
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26819/branches/hintmcnlo/HADRONS++/PS_Library/Three_Body_PSs.C
+END
+Two_Body_PSs.C
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26819/branches/hintmcnlo/HADRONS++/PS_Library/Two_Body_PSs.C
+END
+HD_PS_Base.H
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26819/branches/hintmcnlo/HADRONS++/PS_Library/HD_PS_Base.H
+END
+ResonanceFlavour.C
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26819/branches/hintmcnlo/HADRONS++/PS_Library/ResonanceFlavour.C
+END
+Four_Body_PSs.C
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26819/branches/hintmcnlo/HADRONS++/PS_Library/Four_Body_PSs.C
+END

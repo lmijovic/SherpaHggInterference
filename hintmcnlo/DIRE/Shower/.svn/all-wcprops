@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower
+END
+Lorentz.H
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Lorentz.H
+END
+Shower.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Shower.C
+END
+Lorentz_FF.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Lorentz_FF.C
+END
+Lorentz_FI.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Lorentz_FI.C
+END
+Lorentz_IF.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Lorentz_IF.C
+END
+Shower.H
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Shower.H
+END
+Alpha_QCD.C
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Alpha_QCD.C
+END
+Lorentz_FF.H
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Lorentz_FF.H
+END
+Lorentz_II.C
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Lorentz_II.C
+END
+Lorentz_IF.H
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Lorentz_IF.H
+END
+Lorentz_FI.H
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Lorentz_FI.H
+END
+Kernel.C
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Kernel.C
+END
+Cluster.C
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Cluster.C
+END
+Alpha_QCD.H
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Alpha_QCD.H
+END
+Lorentz_II.H
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Lorentz_II.H
+END
+Kernel.H
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Kernel.H
+END
+Cluster.H
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Cluster.H
+END
+Gauge.C
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Gauge.C
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Makefile.am
+END
+Gauge.H
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Gauge.H
+END
+Lorentz.C
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/DIRE/Shower/Lorentz.C
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/AQGC
+END
+function_library.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/AQGC/function_library.py
+END
+object_library.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/AQGC/object_library.py
+END
+lorentz.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/AQGC/lorentz.py
+END
+coupling_orders.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/AQGC/coupling_orders.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/AQGC/__init__.py
+END
+propagators.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/AQGC/propagators.py
+END
+couplings.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/AQGC/couplings.py
+END
+parameters.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/AQGC/parameters.py
+END
+write_param_card.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/AQGC/write_param_card.py
+END
+vertices.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/AQGC/vertices.py
+END
+particles.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26819/branches/hintmcnlo/MODEL/AQGC/particles.py
+END
