@@ -13,7 +13,7 @@ and @mycite{Dixon2013haa}.
 
 @example
 @smallformat
-@verbatiminclude Examples/H_in_GluonFusion/LHC_HInterference/Run.dat
+@verbatiminclude Examples/H_in_GluonFusion/LHC_HInt_INT/Run.dat 
 @end smallformat
 @end example
 
