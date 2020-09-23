@@ -1,6 +1,6 @@
 (run){
   # generator parameters
-  EVENTS 1M; LGEN:=Higgs;
+  EVENTS 1k; LGEN:=Higgs;
   EVENT_OUTPUT=HepMC_GenEvent[hepmc_file]	
   EVENT_GENERATION_MODE W;
   ME_QED Off;
